@@ -6,3 +6,4 @@ scikit-learn
 IPython
 tensorflow
 imbalanced-learn
+xgboost
