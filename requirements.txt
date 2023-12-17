@@ -5,3 +5,7 @@ seaborn
 scikit-learn
 IPython
 tensorflow
+imbalanced-learn
+xgboost
+SciPy
+modAL-python
